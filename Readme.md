@@ -103,7 +103,7 @@ During development, I worked through practical Machine Learning issues including
 - Removing `loan_id` and `loan_status` from prediction inputs
 - Saving and reusing the trained model and encoders with Joblib
 
-## 💾 Saved Files
+
 
 ## 💾 Saved Files
 
