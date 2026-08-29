@@ -26,11 +26,10 @@ Features include customer information, income, loan details, credit history, and
 **Models Tested:**
 
 - Logistic Regression
-- Decision Tree
 - Random Forest
-- KNN
+- GradientBoostingClassifier
 - SVM
-- Naive Bayes
+- XGBClassifier
 
 **Final Model:** Random Forest Classifier
 
