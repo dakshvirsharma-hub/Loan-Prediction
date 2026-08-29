@@ -110,3 +110,6 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Streamlit 
 
 ![Loan Prediction Application](Loanprediction.png)
 
+👨‍💻 Author
+Dakshvir Sharma
+Data Science & Machine Learning
