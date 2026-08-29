@@ -2,10 +2,13 @@
 
 A Machine Learning project that predicts whether a loan application is likely to be **Approved (Y) or Not Approved (N)** and provides the **approval probability**.
 
+
+
 ## 🚀 Live Demo
 
-**Streamlit:** [Add your Streamlit link here]  
-**GitHub:** [Add your GitHub link here]
+**Streamlit:** [Loan Prediction App](https://loan-prediction-by-daksh.streamlit.app/)
+
+**GitHub:** [Loan Prediction Repository](https://github.com/dakshvirsharma-hub/Loan-Prediction)
 
 ## 📊 Dataset
 
@@ -34,6 +37,11 @@ Features include customer information, income, loan details, credit history, and
 **Hyperparameter Tuning:** `GridSearchCV`
 
 ### Best Parameters
+
+n_estimators = 100
+max_depth = 5
+min_samples_split = 5
+min_samples_leaf = 2
 
 ## 📈 Performance
 
