@@ -57,7 +57,6 @@ Features include customer information, income, loan details, credit history, and
 
 ## 🔄 Pipeline
 
-```text
 Data → Cleaning → EDA → Preprocessing
 → Model Training → GridSearchCV → Evaluation
 → Random Forest → Loan Probability
@@ -98,18 +97,16 @@ During development, I worked through practical Machine Learning issues including
 
 ## 💾 Saved Files
 
-```text
+## 💾 Saved Files
+
 loan_prediction_model.joblib
 label_encoder.joblib
 onehot_encoder.joblib
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Streamlit · Joblib · Git
 
 ## 📸 Application
 
 ![Loan Prediction Application](Loanprediction.png)
 
-👨‍💻 Author
-Dakshvir Sharma
-Data Science & Machine Learning
