@@ -200,4 +200,4 @@ if st.button("Predict eligibility"):
         result = (st.error("🔴 No Loan Eligbility does not success"))
 
 
-    st.write(f"Approval Probability: {probability:.2%}")
+    st.header(f"Approval Probability: {probability:.2%}")
